@@ -1,0 +1,9 @@
+{
+  "name": "multi-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.16.2",
+    "express": "^4.18.2"
+  }
+}
